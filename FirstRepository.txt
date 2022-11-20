@@ -1,2 +1,3 @@
 Pierwsza wprowadzona zmiana
 Dodawanie zmian na górnej branchy
+Dodawanie drugiej zmiany na gornej branchy
